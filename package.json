@@ -1,8 +1,8 @@
 {
-  "name": "css-grid",
+  "name": "what-the-flexbox",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "",
   "scripts": {
     "start": "run-script-os",
     "start:darwin:linux": "browser-sync start --server --files '**/*.css, **/*.html, **/*.js, !node_modules/**/*' --https --directory --port 3004"
