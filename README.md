@@ -21,3 +21,4 @@ $ npm start
 
 * [01-IntroductionToFlexbox](https://herminiotorres.github.io/cssgrid/01-IntroductionToFlexbox/finish.html)
 * [02-WorkingWithFlexboxFlex-Direction](https://herminiotorres.github.io/cssgrid/02-WorkingWithFlexboxFlex-Direction/finish.html)
+* [03-WrappingElementsWithFlexbox](https://herminiotorres.github.io/cssgrid/03-WrappingElementsWithFlexbox/finish.html)
