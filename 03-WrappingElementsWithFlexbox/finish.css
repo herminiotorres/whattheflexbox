@@ -37,5 +37,17 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 /*  flex-direction: column;*/
 /*  flex-direction: column-reverse;*/
 /*  flex-direction: row-reverse;*/
-  flex-direction: row;
+/*  flex-direction: row;*/
+/*  flex-wrap: nowrap;*/
+/*  flex-wrap: wrap-reverse;*/
+  flex-wrap: wrap;
+}
+
+.box  {
+/*  width: 300px;*/
+  width: 33.33%;
+/*  width: calc(33.33% - 20px);*/
+/*  margin: 10px;*/
+/*  padding: 10px;*/
+/*  border: 10px solid mistyrose;*/
 }
