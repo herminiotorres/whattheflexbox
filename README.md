@@ -23,3 +23,7 @@ $ npm start
 * [02-WorkingWithFlexboxFlex-Direction](https://herminiotorres.github.io/cssgrid/02-WorkingWithFlexboxFlex-Direction/finish.html)
 * [03-WrappingElementsWithFlexbox](https://herminiotorres.github.io/cssgrid/03-WrappingElementsWithFlexbox/finish.html)
 * [04-FleboxOrdering](https://herminiotorres.github.io/cssgrid/04-FleboxOrdering/finish.html)
+* [05-FlexboxAlignmentAndCenteringWithJustify-Content](https://herminiotorres.github.io/cssgrid/05-FlexboxAlignmentAndCenteringWithJustify-Content/finish.html)
+* [06-AlignmentAndCenteringWithAlign-Items](https://herminiotorres.github.io/cssgrid/06-AlignmentAndCenteringWithAlign-Items/finish.html)
+* [07-AlignmentAndCenteringWithAlign-Content](https://herminiotorres.github.io/cssgrid/07-AlignmentAndCenteringWithAlign-Content/finish.html)
+* [08-AlignmentAndCenteringWithAlign-Self](https://herminiotorres.github.io/cssgrid/08-AlignmentAndCenteringWithAlign-Self/finish.html)
