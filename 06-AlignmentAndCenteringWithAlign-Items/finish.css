@@ -32,4 +32,37 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 
 .container {
   display:flex;
+  border: 10px solid mistyrose;
+/*  flex-direction: column;*/
+  height: 100vh;
+/*  align-items: stretch;*/
+  align-items: center;
+/*  align-items: flex-start;*/
+/*  align-items: flex-end;*/
+/*  align-items: baseline;*/
+  flex-direction: column;
+}
+
+.box1 {
+  font-size: 30px;
+}
+
+.box3 {
+  font-size: 150px;
+}
+
+.box4 {
+  font-size: 200px;
+}
+
+.box5 {
+  font-size: 250px;
+}
+
+.box6 {
+  font-size: 10px;
+}
+
+.box10 {
+  font-size: 77px;
 }
