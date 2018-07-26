@@ -27,3 +27,4 @@ $ npm start
 * [06-AlignmentAndCenteringWithAlign-Items](https://herminiotorres.github.io/whattheflexbox/06-AlignmentAndCenteringWithAlign-Items/finish.html)
 * [07-AlignmentAndCenteringWithAlign-Content](https://herminiotorres.github.io/whattheflexbox/07-AlignmentAndCenteringWithAlign-Content/finish.html)
 * [08-AlignmentAndCenteringWithAlign-Self](https://herminiotorres.github.io/whattheflexbox/08-AlignmentAndCenteringWithAlign-Self/finish.html)
+* [09-UnderstandingFlexboxSizingwithTheFlexProperty](https://herminiotorres.github.io/whattheflexbox/09-UnderstandingFlexboxSizingwithTheFlexProperty/finish.html)
