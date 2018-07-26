@@ -1,4 +1,4 @@
-![https://flexbox.io](flexbox.png)
+![https://flexbox.io](https://flexbox.io/images/WTF/share.png)
 
 
 # Flexbox Video Course - [@wesbos](https://github.com/wesbos)

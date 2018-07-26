@@ -34,4 +34,18 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
   display:flex;
   border: 10px solid mistyrose;
   height: 100vh;
+/*  justify-content: space-between;*/
+/*  justify-content: center;*/
+/*  align-content: space-between;*/
+/*  align-content: stretch;*/
+/*  align-content: flex-start;*/
+/*  align-content: flex-end;*/
+/*  align-content: space-around;*/
+  align-content: center;
+/*  text-align: center;*/
+  flex-wrap: wrap;
+}
+
+.box {
+  width: 33.333%;
 }
