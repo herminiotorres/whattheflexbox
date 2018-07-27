@@ -32,11 +32,3 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 .container {
   display:flex;
 }
-
-.box {
-  flex:1;
-}
-
-.box2 {
-  flex:2;
-}
