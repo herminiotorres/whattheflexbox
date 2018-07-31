@@ -50,3 +50,4 @@ $ npm start
 * [09-UnderstandingFlexboxSizingwithTheFlexProperty](https://herminiotorres.github.io/whattheflexbox/09-UnderstandingFlexboxSizingwithTheFlexProperty/finish.html)
 * [10-FinallyUnderstandingFlexbox-FlexGrow-FlexShrink-FlexBasis](https://herminiotorres.github.io/whattheflexbox/10-FinallyUnderstandingFlexbox-FlexGrow-FlexShrink-FlexBasis/finish.html)
 * [11-HowFlexboxFlexBasisAndWrappingWorkTogether](https://herminiotorres.github.io/whattheflexbox/11-HowFlexboxFlexBasisAndWrappingWorkTogether/finish.html)
+* [12-CrossBrowserFlexboxSupportAndAutoprefixer](https://herminiotorres.github.io/whattheflexbox/12-CrossBrowserFlexboxSupportAndAutoprefixer/autoprefixer/index.html)
