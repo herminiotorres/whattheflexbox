@@ -17,11 +17,17 @@ $ npm start
 ```
 
 ## List of Resources
+* Tools
+  * [Autoprefixer CSS online](https://autoprefixer.github.io)
+  * [gulpjs](https://gulpjs.com)
+* MDN Web Docs
+  * [flex-basis](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-basis)
 * layout.land
   * [layout.land - youtube](https://www.layout.land/)
   * [jensimmons - labs](http://labs.jensimmons.com/)
 * css-tricks
   * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  * [“Old” Flexbox and “New” Flexbox](https://css-tricks.com/old-flexbox-and-new-flexbox/)
   * [Does CSS Grid Replace Flexbox?](https://css-tricks.com/css-grid-replace-flexbox/)
 * smashingmagazine
   * [The Flexbox Reading List: Techniques And Tools](https://www.smashingmagazine.com/2016/02/the-flexbox-reading-list/)
