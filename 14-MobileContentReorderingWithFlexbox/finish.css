@@ -105,18 +105,18 @@ section, footer {
 
   /* Turn on flexbox */
   .wrapper {
-    display:flex;
-    flex-direction:column;
+    display: flex;
+    flex-direction: column;
   }
 
   /* Reorder items */
   .wrapper > * {
-    order:999;
+    order: 999;
   }
   
   /* Nav */
   .flex-nav {
-    order:1;
+    order: 1;
   }
 
   .toggleNav {
@@ -126,23 +126,24 @@ section, footer {
   .flex-nav ul {
     display: none;
   }
-    .flex-nav ul.open {
-      display:flex;
-    }
+
+  .flex-nav ul.open {
+    display: flex;
+  }
   
   /* Header */
   .top {
-    order:2;
+    order: 2;
   }
 
   /* Details */
   .details {
-    order:3;
+    order: 3;
   }
 
   /* Sign Up */
   .signup {
-    order:4;
+    order: 4;
   }
 
 }
