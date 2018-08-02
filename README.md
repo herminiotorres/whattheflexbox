@@ -51,3 +51,4 @@ $ npm start
 * [10-FinallyUnderstandingFlexbox-FlexGrow-FlexShrink-FlexBasis](https://herminiotorres.github.io/whattheflexbox/10-FinallyUnderstandingFlexbox-FlexGrow-FlexShrink-FlexBasis/finish.html)
 * [11-HowFlexboxFlexBasisAndWrappingWorkTogether](https://herminiotorres.github.io/whattheflexbox/11-HowFlexboxFlexBasisAndWrappingWorkTogether/finish.html)
 * [12-CrossBrowserFlexboxSupportAndAutoprefixer](https://herminiotorres.github.io/whattheflexbox/12-CrossBrowserFlexboxSupportAndAutoprefixer/autoprefixer/index.html)
+* [13-PureFlexboxNavigationCodeAlong](https://herminiotorres.github.io/whattheflexbox/13-PureFlexboxNavigationCodeAlong/finish.html)
