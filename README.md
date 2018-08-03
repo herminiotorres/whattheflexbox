@@ -53,3 +53,4 @@ $ npm start
 * [12-CrossBrowserFlexboxSupportAndAutoprefixer](https://herminiotorres.github.io/whattheflexbox/12-CrossBrowserFlexboxSupportAndAutoprefixer/autoprefixer/index.html)
 * [13-PureFlexboxNavigationCodeAlong](https://herminiotorres.github.io/whattheflexbox/13-PureFlexboxNavigationCodeAlong/finish.html)
 * [14-MobileContentReorderingWithFlexbox](https://herminiotorres.github.io/whattheflexbox/14-MobileContentReorderingWithFlexbox/finish.html)
+* [15-NestingFlexboxForVerticalAndHorizontalCenteringWithFlexbox](https://herminiotorres.github.io/whattheflexbox/15-NestingFlexboxForVerticalAndHorizontalCenteringWithFlexbox/finish.html)
