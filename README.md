@@ -55,3 +55,4 @@ $ npm start
 * [14-MobileContentReorderingWithFlexbox](https://herminiotorres.github.io/whattheflexbox/14-MobileContentReorderingWithFlexbox/finish.html)
 * [15-NestingFlexboxForVerticalAndHorizontalCenteringWithFlexbox](https://herminiotorres.github.io/whattheflexbox/15-NestingFlexboxForVerticalAndHorizontalCenteringWithFlexbox/finish.html)
 * [16-FlexboxPricingGrid](https://herminiotorres.github.io/whattheflexbox/16-FlexboxPricingGrid/finish.html)
+* [17-FlexboxEqualHeightColumnsAndLeftoverElements](https://herminiotorres.github.io/whattheflexbox/17-FlexboxEqualHeightColumnsAndLeftoverElements/finish.html)
